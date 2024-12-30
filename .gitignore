@@ -1,0 +1,9 @@
+# Rust build
+/target/
+
+# Dependencies
+Cargo.lock
+
+# IDE configurations (optional)
+/.idea/
+/.vscode/
